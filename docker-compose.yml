@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  bot-ppob:
+    container_name: bot_ppob_app
+    build: .
+    restart: always
+    ports:
+      - "5000:5000"
+    # Load variabel dari file .env
+    env_file:
+      - .env
