@@ -13,7 +13,7 @@ Bot Telegram sederhana untuk melakukan transaksi PPOB (Pulsa, Kuota, Token PLN) 
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/USERNAME_ANDA/ppob-bot.git](https://github.com/USERNAME_ANDA/ppob-bot.git)
+git clone https://github.com/Muzakie-ID/bot-telegram-orderkuota
 cd ppob-bot
 
 ```
